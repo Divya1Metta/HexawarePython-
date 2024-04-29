@@ -1,6 +1,4 @@
-# Problem Solving Techniques
- - Define
- - Analyze
+
 
 # Problem Solving Techniques
 
